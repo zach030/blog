@@ -1,0 +1,135 @@
+baseURL = "https://www.hackdefi.xyz/"
+# [en, zh-cn, fr, ...] 设置默认的语言
+defaultContentLanguage = "zh-cn"
+# 网站语言, 仅在这里 CN 大写
+languageCode = "zh-CN"
+# 是否包括中日韩文字
+hasCJKLanguage = true
+# 网站标题
+title = "Zach"
+# 更改使用 Hugo 构建网站时使用的默认主题
+theme = "DoIt"
+
+
+[taxonomies]
+    author = "authors"
+    category = "categories"
+
+[author]
+    name = "Zach"
+    gravatarEmail = "zachchou016@gmail.com"
+
+
+[permalinks]
+[permalinks.page]
+    posts = '/:slug/'
+
+[params]
+  # DoIt 主题版本
+  version = "0.4.X"
+  defaultTheme = "auto"
+
+[params.header.title]
+    name = "Zach"
+
+[params.search]
+    enable = true
+    type = "fuse"
+    contentLength = 4000
+
+[params.social]
+    GitHub = "zach030"
+    Twitter = "strconvAtoi"
+    RSS = true
+
+[params.home.profile]
+    enable = true
+    gravatarEmail = "zachchou016@gmail.com"
+    social = true
+    subtitle = "On a clear disk you can seek forever"
+[params.home.posts]
+    enable = true
+    paginate = 5
+
+[params.footer]
+    enable = true
+    hugo = false
+
+
+[params.section]
+    paginate = 20
+
+[params.page]
+    seriesNavigation = true
+    enableWordCount = true
+    enableReadingTime = true
+
+[params.page.toc]
+    enable = true
+    keepStatic = false
+    auto = true
+[params.page.code]
+    copy = true
+    maxShownLines = 100
+[params.page.math]
+    enable = true
+    copyTex = true
+    mhchem = true
+[params.page.comment]
+    enable = true
+[params.page.comment.disqus]
+    enable = true
+    shortname = "https-www-hackdefi-xyz-1"
+
+
+[params.analytics]
+    enable = true
+[params.analytics.google]
+    id = "G-HW92XVB69B"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+
+[languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+[[languages.en.menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    title = "Posts"
+    weight = 1
+[[languages.en.menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    title = "Categories"
+    weight = 2
+
+[languages.zh-cn]
+    weight = 2
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    hasCJKLanguage = true
+[[languages.zh-cn.menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    title = "文章"
+    weight = 1
+[[languages.zh-cn.menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    title = "分类"
+    weight = 2
+
+
+# Hugo 解析文档的配置
+[markup]
+  # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
