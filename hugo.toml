@@ -46,7 +46,7 @@ theme = "DoIt"
     enable = true
     gravatarEmail = "zachchou016@gmail.com"
     social = true
-    subtitle = "On a clear disk you can seek forever"
+    #subtitle = "On a clear disk you can seek forever"
 [params.home.posts]
     enable = true
     paginate = 5
