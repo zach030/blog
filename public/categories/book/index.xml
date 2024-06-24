@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Book - 分类 - Zach</title>
+        <link>http://localhost:1313/categories/book/</link>
+        <description>Book - 分类 - Zach</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/book/" rel="self" type="application/rss+xml" /><item>
+    <title>Clear thinking 读书笔记</title>
+    <link>http://localhost:1313/clear-thinking/</link>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/clear-thinking/</guid>
+    <description><![CDATA[完整的笔记和高亮见 ClearThinking Keynote我们看过听过很多人很多书在尝试教我们如何去工作，如何学习，如何去做决策，如果把这些能力更加抽象概括的话，那]]></description>
+</item></channel>
+</rss>

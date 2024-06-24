@@ -3,12 +3,40 @@
         <title>Categories - 分类 - Zach</title>
         <link>http://localhost:1313/categories/</link>
         <description>Categories - 分类 - Zach</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>System Design</title>
+    <link>http://localhost:1313/categories/system-design/</link>
+    <pubDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Zach</name>
+    </author><guid>http://localhost:1313/categories/system-design/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Defi</title>
+    <link>http://localhost:1313/categories/defi/</link>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Zach</name>
+    </author><guid>http://localhost:1313/categories/defi/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Book</title>
+    <link>http://localhost:1313/categories/book/</link>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Zach</name>
+    </author><guid>http://localhost:1313/categories/book/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Audit</title>
     <link>http://localhost:1313/categories/audit/</link>
     <pubDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>作者</name>
+        <name>Zach</name>
     </author><guid>http://localhost:1313/categories/audit/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>CTF</title>
+    <link>http://localhost:1313/categories/ctf/</link>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Zach</name>
+    </author><guid>http://localhost:1313/categories/ctf/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

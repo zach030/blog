@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>System Design - 分类 - Zach</title>
+        <link>http://localhost:1313/categories/system-design/</link>
+        <description>System Design - 分类 - Zach</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/system-design/" rel="self" type="application/rss+xml" /><item>
+    <title>ERC20 Rebase的设计与实现</title>
+    <link>http://localhost:1313/erc20-rebase/</link>
+    <pubDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/erc20-rebase/</guid>
+    <description><![CDATA[1 基础框架 背景ERC20 Rebase机制是在ERC20协议基础之上衍生的，用来对代币持有者做激励分红，这里将以ethereum-credit]]></description>
+</item><item>
+    <title>智能合约架构--The Default Framework</title>
+    <link>http://localhost:1313/the-default-framework/</link>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/the-default-framework/</guid>
+    <description><![CDATA[在阅读OlympusV3的合约时，架构的设计给我留下很深的印象，架构清晰，在智能合约领域实现了高内聚低耦合的设计思想，从而可以专注的深入独立]]></description>
+</item><item>
+    <title>ERC2612 Approve的拓展</title>
+    <link>http://localhost:1313/erc2612/</link>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/erc2612/</guid>
+    <description><![CDATA[什么是ERC-2612ERC-2612: Permit Extension for EIP-20 Signed Approvals ERC-2612是针对erc20中的approve的优化，传统的approve必须由EO]]></description>
+</item></channel>
+</rss>

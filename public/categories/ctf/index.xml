@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CTF - 分类 - Zach</title>
+        <link>http://localhost:1313/categories/ctf/</link>
+        <description>CTF - 分类 - Zach</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ctf/" rel="self" type="application/rss+xml" /><item>
+    <title>Damn-Vulnerable-Defi V3 题解</title>
+    <link>http://localhost:1313/damn-vulnerable-defi/</link>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/damn-vulnerable-defi/</guid>
+    <description><![CDATA[Challenge 1 - UnstoppableUnstoppable 合约 ReceiverUnstoppable：继承IERC3156FlashBorrower合约，用于发起闪电贷，执行闪电贷后的回调 U]]></description>
+</item></channel>
+</rss>

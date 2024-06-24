@@ -1,7 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DeFi - 分类 - Zach</title>
+        <title>Defi - 分类 - Zach</title>
         <link>http://localhost:1313/categories/defi/</link>
-        <description>DeFi - 分类 - Zach</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://localhost:1313/categories/defi/" rel="self" type="application/rss+xml" /></channel>
+        <description>Defi - 分类 - Zach</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/defi/" rel="self" type="application/rss+xml" /><item>
+    <title>EigenLayer 合约解析</title>
+    <link>http://localhost:1313/eigenlayer-analysis/</link>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/eigenlayer-analysis/</guid>
+    <description><![CDATA[Strategy StrategyBase由StrategyBase和StrategyBaseTVLLimits构成，StrategyBase是基础逻辑，S]]></description>
+</item><item>
+    <title>从零开始UniswapV2</title>
+    <link>http://localhost:1313/uniswapv2/</link>
+    <pubDate>Mon, 04 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/uniswapv2/</guid>
+    <description><![CDATA[Part-1 流动性 UniswapV2相较于V1有了较大变动，也是目前最流行的dex版本，很多协议都是从UniswapV2 fork而来，在本系列的文章中]]></description>
+</item></channel>
 </rss>

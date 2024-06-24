@@ -2,9 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/categories/audit/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/audit-profolio/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/authors/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://localhost:1313/en/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://localhost:1313/authors/"
+                    /></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/categories/"
@@ -13,8 +20,10 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/erc20-rebase/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/system-design/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://localhost:1313/en/"
@@ -23,6 +32,19 @@
                     hreflang="zh-cn"
                     href="http://localhost:1313/"
                     /></url><url>
+            <loc>http://localhost:1313/authors/zach/</loc><lastmod>2024-04-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/defi/</loc><lastmod>2024-02-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/eigenlayer-analysis/</loc><lastmod>2024-02-05T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/book/</loc><lastmod>2024-01-31T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/clear-thinking/</loc><lastmod>2024-01-31T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/audit/</loc><lastmod>2024-01-24T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/salty/</loc><lastmod>2024-01-24T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/the-default-framework/</loc><lastmod>2024-01-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/uniswapv2/</loc><lastmod>2023-12-04T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/audit-profolio/</loc><lastmod>2023-09-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/ctf/</loc><lastmod>2023-08-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/damn-vulnerable-defi/</loc><lastmod>2023-08-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/erc2612/</loc><lastmod>2023-08-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/about/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -31,13 +53,4 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://localhost:1313/about/"
-                    /></url><url>
-            <loc>http://localhost:1313/tags/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://localhost:1313/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://localhost:1313/tags/"
                     /></url></urlset>

@@ -3,14 +3,61 @@
         <title>Zach</title>
         <link>http://localhost:1313/</link>
         <description>Zach</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>ERC20 Rebase的设计与实现</title>
+    <link>http://localhost:1313/erc20-rebase/</link>
+    <pubDate>Tue, 09 Apr 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/erc20-rebase/</guid>
+    <description><![CDATA[1 基础框架 背景ERC20 Rebase机制是在ERC20协议基础之上衍生的，用来对代币持有者做激励分红，这里将以ethereum-credit]]></description>
+</item><item>
+    <title>EigenLayer 合约解析</title>
+    <link>http://localhost:1313/eigenlayer-analysis/</link>
+    <pubDate>Mon, 05 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/eigenlayer-analysis/</guid>
+    <description><![CDATA[Strategy StrategyBase由StrategyBase和StrategyBaseTVLLimits构成，StrategyBase是基础逻辑，S]]></description>
+</item><item>
+    <title>Clear thinking 读书笔记</title>
+    <link>http://localhost:1313/clear-thinking/</link>
+    <pubDate>Wed, 31 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/clear-thinking/</guid>
+    <description><![CDATA[完整的笔记和高亮见 ClearThinking Keynote我们看过听过很多人很多书在尝试教我们如何去工作，如何学习，如何去做决策，如果把这些能力更加抽象概括的话，那]]></description>
+</item><item>
+    <title>Salty WalkThrough</title>
+    <link>http://localhost:1313/salty/</link>
+    <pubDate>Wed, 24 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/salty/</guid>
+    <description><![CDATA[Github: https://github.com/code-423n4/2024-01-salty Documentation: https://tech.salty.io/ Overview主要分为几个模块： AMM：涉及pool底层swap及arbitrage DAO：涉及proposal rewards liquidit]]></description>
+</item><item>
+    <title>智能合约架构--The Default Framework</title>
+    <link>http://localhost:1313/the-default-framework/</link>
+    <pubDate>Tue, 09 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/the-default-framework/</guid>
+    <description><![CDATA[在阅读OlympusV3的合约时，架构的设计给我留下很深的印象，架构清晰，在智能合约领域实现了高内聚低耦合的设计思想，从而可以专注的深入独立]]></description>
+</item><item>
+    <title>从零开始UniswapV2</title>
+    <link>http://localhost:1313/uniswapv2/</link>
+    <pubDate>Mon, 04 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/uniswapv2/</guid>
+    <description><![CDATA[Part-1 流动性 UniswapV2相较于V1有了较大变动，也是目前最流行的dex版本，很多协议都是从UniswapV2 fork而来，在本系列的文章中]]></description>
+</item><item>
     <title>Audit Profolio</title>
-    <link>http://localhost:1313/posts/audit-profolio/</link>
+    <link>http://localhost:1313/audit-profolio/</link>
     <pubDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-                    <name>Zach</name>
-                </author><guid>http://localhost:1313/posts/audit-profolio/</guid>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/audit-profolio/</guid>
     <description><![CDATA[ Zach&rsquo;s wall of achievements Overall issues found High risk Medium risk Low risk Audited contests 9 issues found 5 highs 2 medium 2 low 6 contests Code4rena Contest High risk Medium risk Findings Leaderboard Kelp 1 H 101/185 NextGen 1 M 53/242 reNFT 1 H 80/115 Salty.io 1 H 144/177 CodeHawks Contest High risk Medium risk Low risk Findings Leaderboard Sparkn 1 2 Report 18/202 Sherlock Contest High risk(Total) Medium risk Findings Leaderboard Allo V2 1 1 Report 14/115 ]]></description>
+</item><item>
+    <title>Damn-Vulnerable-Defi V3 题解</title>
+    <link>http://localhost:1313/damn-vulnerable-defi/</link>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/damn-vulnerable-defi/</guid>
+    <description><![CDATA[Challenge 1 - UnstoppableUnstoppable 合约 ReceiverUnstoppable：继承IERC3156FlashBorrower合约，用于发起闪电贷，执行闪电贷后的回调 U]]></description>
+</item><item>
+    <title>ERC2612 Approve的拓展</title>
+    <link>http://localhost:1313/erc2612/</link>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/erc2612/</guid>
+    <description><![CDATA[什么是ERC-2612ERC-2612: Permit Extension for EIP-20 Signed Approvals ERC-2612是针对erc20中的approve的优化，传统的approve必须由EO]]></description>
 </item></channel>
 </rss>

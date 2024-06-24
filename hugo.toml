@@ -45,6 +45,7 @@ theme = "DoIt"
 [params.home.profile]
     enable = true
     gravatarEmail = "zachchou016@gmail.com"
+    avatarURL = "https://pic.imgdb.cn/item/66782ec1d9c307b7e94138cd.jpg"
     social = true
     #subtitle = "On a clear disk you can seek forever"
 [params.home.posts]
@@ -54,7 +55,6 @@ theme = "DoIt"
 [params.footer]
     enable = true
     hugo = false
-
 
 [params.section]
     paginate = 20

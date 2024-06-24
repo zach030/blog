@@ -20,6 +20,15 @@
                     hreflang="en"
                     href="http://localhost:1313/en/"
                     /></url><url>
+            <loc>http://localhost:1313/en/authors/</loc><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/authors/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/authors/"
+                    /></url><url>
             <loc>http://localhost:1313/en/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -28,13 +37,4 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/en/categories/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/tags/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/tags/"
                     /></url></urlset>

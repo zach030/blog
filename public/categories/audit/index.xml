@@ -5,10 +5,9 @@
         <description>Audit - 分类 - Zach</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/audit/" rel="self" type="application/rss+xml" /><item>
     <title>Audit Profolio</title>
-    <link>http://localhost:1313/posts/audit-profolio/</link>
+    <link>http://localhost:1313/audit-profolio/</link>
     <pubDate>Fri, 22 Sep 2023 00:00:00 &#43;0000</pubDate><author>
-                    <name>Zach</name>
-                </author><guid>http://localhost:1313/posts/audit-profolio/</guid>
+                        <name>Zach</name><uri>http://localhost:1313/authors/zach</uri></author><guid>http://localhost:1313/audit-profolio/</guid>
     <description><![CDATA[ Zach&rsquo;s wall of achievements Overall issues found High risk Medium risk Low risk Audited contests 9 issues found 5 highs 2 medium 2 low 6 contests Code4rena Contest High risk Medium risk Findings Leaderboard Kelp 1 H 101/185 NextGen 1 M 53/242 reNFT 1 H 80/115 Salty.io 1 H 144/177 CodeHawks Contest High risk Medium risk Low risk Findings Leaderboard Sparkn 1 2 Report 18/202 Sherlock Contest High risk(Total) Medium risk Findings Leaderboard Allo V2 1 1 Report 14/115 ]]></description>
 </item></channel>
 </rss>
