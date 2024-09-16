@@ -1,6 +1,6 @@
 ---
-slug: audit-profolio
-title: Audit Profolio
+slug: audit-protfolio
+title: Audit Protfolio
 date: 2023-09-22
 authors: [Zach]
 math: true
